@@ -29,12 +29,12 @@ I don't want to just learn technologies — I want to understand how they can be
 * 🎓 Computer Science Engineering undergraduate
 * 💻 Interested in **Full-Stack Development**
 * 🐍 Building with **Python**
-* 🤖 Exploring **AI / ML / Generative AI**
+*  Exploring **AI / ML / Generative AI**
 * ⚛️ Learning and building with **React**
 * 🧠 Exploring **Data Structures & Algorithms**
-* 🚀 Passionate about hackathons and rapid prototyping
-* 🛠️ Comfortable experimenting with AI-assisted / "vibe coding" workflows
-* 🌱 Currently focused on becoming a stronger **production-oriented developer**
+*  Passionate about hackathons and rapid prototyping
+* Comfortable experimenting with AI-assisted / "vibe coding" workflows
+*  Currently focused on becoming a stronger **production-oriented developer**
 
 ---
 
@@ -53,11 +53,11 @@ I enjoy working on projects where multiple technologies come together to solve a
           │
      ┌────┴────┐
      ▼         ▼
-   🌐 Web     🤖 AI/ML
+   🌐 Web       AI/ML
      │         │
      └────┬────┘
           ▼
-     🚀 Working Product
+      Working Product
 ```
 
 My current interests include:
