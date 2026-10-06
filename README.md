@@ -119,7 +119,7 @@ Human Verification
 
 ---
 
-### 🍳 PantryChef
+### 🧑‍🍳 PantryChef
 
 **GDG BPPIMT Hackathon · Code_Cubed · 3rd Place 🥉**
 
