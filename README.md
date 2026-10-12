@@ -1,17 +1,27 @@
 # 👋 Hey, I'm Jit Ghosh
 
-### `Computer Science Undergraduate` · `Full-Stack Developer` · `Python Developer` · `AI/ML Learner`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI%2C+ML%2C+and+full-stack+systems;Turning+ideas+into+working+products" alt="Typing banner" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="40" height="40" />
+  <span style="font-size: 48px; font-weight: 700; line-height: 1.2;">Hey, I'm Jit Ghosh</span>
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Science%20Undergraduate- • -F7F7F7?style=flat-square&labelColor=F3F4F6&color=E5E7EB" alt="Computer Science Undergraduate" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer- • -F7F7F7?style=flat-square&labelColor=F3F4F6&color=E5E7EB" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Python%20Developer- • -F7F7F7?style=flat-square&labelColor=F3F4F6&color=E5E7EB" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Learner- • -F7F7F7?style=flat-square&labelColor=F3F4F6&color=E5E7EB" alt="AI/ML Learner" />
+</p>
+
+<p align="left">
+  <span style="font-size: 42px; color: #36BCF7; font-style: italic; font-family: 'Segoe UI', sans-serif;">Building things</span>
+</p>
+
+<p align="left">
   <a href="https://github.com/Jit2005git">
-    <img src="https://img.shields.io/github/followers/Jit2005git?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/Followers-4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Jit2005git?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-36-blue?style=for-the-badge&logo=github" alt="Repositories count" />
+    <img src="https://img.shields.io/badge/Repositories-36-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories count" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Jit2005git&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
