@@ -3,17 +3,17 @@
 ### `Computer Science Undergraduate` · `Full-Stack Developer` · `Python Developer` · `AI/ML Learner`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI+%2B+Full-Stack+Development;Learning+by+building+%F0%9F%9A%80;Turning+ideas+into+working+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI%2C+ML%2C+and+full-stack+systems;Turning+ideas+into+working+products" alt="Typing banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Jit2005git">
-    <img src="https://img.shields.io/github/followers/Jit2005git?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Jit2005git?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Jit2005git?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-36-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-36-blue?style=for-the-badge&logo=github" alt="Repositories count" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jit2005git&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Jit2005git&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -29,12 +29,12 @@ I don't want to just learn technologies — I want to understand how they can be
 * 🎓 Computer Science Engineering undergraduate
 * 💻 Interested in **Full-Stack Development**
 * 🐍 Building with **Python**
-*  Exploring **AI / ML / Generative AI**
+* Exploring **AI / ML / Generative AI**
 * ⚛️ Learning and building with **React**
 * 🧠 Exploring **Data Structures & Algorithms**
-*  Passionate about hackathons and rapid prototyping
+* Passionate about hackathons and rapid prototyping
 * Comfortable experimenting with AI-assisted / "vibe coding" workflows
-*  Currently focused on becoming a stronger **production-oriented developer**
+* Currently focused on becoming a stronger **production-oriented developer**
 
 ---
 
@@ -182,25 +182,25 @@ An AI-assisted travel planning application designed to keep trip information org
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css" alt="Programming languages" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend stack" />
 </p>
 
 ### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" alt="Backend stack" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,vercel,netlify" alt="Database and cloud tools" />
 </p>
 
 ### 🤖 AI / ML
@@ -219,7 +219,7 @@ LLM-powered applications
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Developer tools" />
 </p>
 
 ---
@@ -257,12 +257,12 @@ Working on **PS26189 — AI-Powered Criminal Network Analysis System**, explorin
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jit2005git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit2005git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jit2005git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit2005git&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jit2005git&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jit2005git&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -312,16 +312,15 @@ That's the fun part.
 <p align="center">
 
 <a href="https://github.com/Jit2005git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/jit-ghosh-25179a338/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://www.instagram.com/jit_2005_hitman?cplk=MXFjanE3NXBrc3V6Ng==">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBz3kcFGtyRGog_MJQEytXUbme-YeqqBO7YW_JlLErg&s=10/">
+<a href="https://www.instagram.com/jit_2005_hitman/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
 
