@@ -313,6 +313,7 @@ That's the fun part.
 
 <a href="https://github.com/Jit2005git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://www.instagram.com/jit_2005_hitman?cplk=MXFjanE3NXBrc3V6Ng=="/>
 </a>
 
 <a href="https://www.linkedin.com/in/jit-ghosh-25179a338/">
