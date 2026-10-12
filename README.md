@@ -321,7 +321,7 @@ That's the fun part.
 </a>
 
 <a href="https://www.instagram.com/jit_2005_hitman?cplk=MXFjanE3NXBrc3V6Ng==">
-  <img src="https://www.google.com/imgres?q=instagram&imgurl=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FInstagram_logo_2022.svg%2F1280px-Instagram_logo_2022.svg.png%3Futm_source%3Dsimple.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Dthumbnail&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FInstagram&docid=LpD1odgpC18JRM&tbnid=KftXXYo79HEB7M&vet=12ahUKEwjpiOTQjbWXAxUQUGcHHVDrI7QQnPAOegQIPBAA..i&w=1280&h=1280&hcb=2&itg=1&ved=2ahUKEwjpiOTQjbWXAxUQUGcHHVDrI7QQnPAOegQIPBAA">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBz3kcFGtyRGog_MJQEytXUbme-YeqqBO7YW_JlLErg&s=10/">
 </a>
 </p>
 
