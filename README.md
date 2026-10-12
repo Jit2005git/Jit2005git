@@ -69,7 +69,7 @@ Hackathon projects · Automation · Data & ML · Developer Tools**
 
 # 🏆 Featured Projects
 
-### 🕵️ PS26189 — AI-Powered Criminal Network Analysis System
+### 🕵️ Anweshan AI — AI-Powered Criminal Network Analysis System
 
 **Smart India Hackathon 2026 · Problem Statement 26189**
 
